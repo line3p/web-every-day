@@ -1,6 +1,9 @@
 .cor-de-fundo{
     background-color: #E3EEF4;
 }
+html{
+    font-family: 'Roboto', sans-serif;
+}
 div{
     text-align: center;
 }
@@ -8,12 +11,15 @@ img{
     width: 400px;
     border-radius: 10px 10px 0 0 ;
     display: inline-block;
+    
+}
+.relativa{
     position: relative;
 }
 .p-doido{
     position: absolute;
-    left: 450px;
-    top: 200px;
+    left: 36.6%;
+    bottom: 10px;
     background-color:#314662;
     padding: 3px;
     color: #ffffff;
@@ -29,7 +35,6 @@ article{
 .texto{
     text-align: left;
     padding-left: 30px;
-    font-family: 'Roboto', sans-serif;
     font-size: 15px;
 }
 .p1{
