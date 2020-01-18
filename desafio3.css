@@ -1,0 +1,46 @@
+html {
+    font-family: 'Lato', sans-serif;
+}
+
+.cor-de-fundo {
+    background-color: #E6E6E8;
+}
+
+.opcoes{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.opcao {
+    width: 200px;
+    background-color:#FDFDFD;
+    padding: 80px 20px;
+    display: inline-block;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-right: 20px;
+}
+
+.opcao h1{
+    color: #132C5C;
+    font-weight: bold;
+}
+
+.opcao p {
+    color: #D5D5D5;
+    padding: 0 20px;
+}
+
+.mensal {
+    color: #D5D5D5;
+    padding-left: 5px;
+}
+
+.opcao h2{
+    color:#50A0F9;
+    display: inline-block;
+}
+
+.imagem {
+    width: 100%;
+}
