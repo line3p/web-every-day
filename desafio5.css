@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2B2E35;
+}
+
+.cor-de-fundo{
+    background-color: #F9F9F9;
+}
+
+.formulario {
+    background-color: #FFFFFF;
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+.logo{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    padding: 20px 0;
+}
+
+.campos-formulario {
+padding: 0 30px;
+}
+.campos-formulario label, input {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.campos-formulario input {
+    padding: 10px;
+}
+
+.caixa {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #D8D8D8;
+}
+
+.criar-conta {
+    color: #ffffff;
+    background-color: #FF6B6C;
+    border: none;
+    border-radius: 3px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.rodape {
+    border-top: 1px solid #D8D8D8;
+    padding: 5px 30px;
+}
+
+.link-entrar {
+    color: #31C5FF;
+    text-decoration: none;
+    padding-left: 10px;
+}
